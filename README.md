@@ -1,1 +1,1 @@
-# -Alzheimer-s-Disease-Prediction-and-Classification-using-Machine-Learning
+# Alzheimer-s-Disease-Prediction-and-Classification-using-Machine-Learning
